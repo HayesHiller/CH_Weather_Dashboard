@@ -1,16 +1,41 @@
-.navbar-brand {
-    font-size: 36px;
+#page_header{
+    text-align: center;
+    background-color:#3d6488;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white
+
 }
 
-.search-header {
-    font-size: 24px;
-    font-weight: bold;
+
+.listbtn{
+    background-color: #3d6488;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-radius: 2px; 
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
 }
 
-.city-name {
-    font-size: 30px;
+
+.left_div{
+    /* background-color: #e2d9be;  */
+    height: 100%; 
 }
 
-.forecast-date {
-    font-size: 18px;
+.card-body{
+    background-color: #3d6488;
+    color: white;
+}
+
+#searchbtn{
+    background-color: #3d6488;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-radius: 2px; 
+    
+
 }
